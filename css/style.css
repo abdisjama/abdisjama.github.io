@@ -7638,7 +7638,7 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
   font-weight: 400;
-  color: #000000; }
+  color: 	#fbc912; }
 
 .text-primary {
   color: #CAEDF9 !important; }
@@ -7815,12 +7815,12 @@ h1, h2, h3, h4, h5,
   .hero-wrap .overlay {
     position: absolute;
     top: 0;
-    left: 0;
-    right: 0;
+    left: 12%;
+    right: 25%;
     bottom: 0;
     content: '';
-    opacity: .6;
-    width: 100%;
+    opacity: .2;
+    width: 75%;
     background: #CAEDF9; }
   .hero-wrap .slider-text {
     color: #fff;
